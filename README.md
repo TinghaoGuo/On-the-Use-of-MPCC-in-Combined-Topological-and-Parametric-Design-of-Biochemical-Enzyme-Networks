@@ -2,6 +2,7 @@
 
 Primary Reference
 - Tinghao Guo, James T Allison. 'On the Use of Mathematical Programs with Complementary Constraints in Combined Topological and Parametric Design of Biochemical Enzyme Networks.' Engineering Optimization, 49(2), p. 345-364, Feb 2017.
+- http://systemdesign.illinois.edu/publications/Guo17a.pdf
 
 Supplementary Document
 - Tinghao Guo, James T Allison. 'On the Use of Mathematical Programs with Complementary Constraints in Combined Topological and Parametric Design of Biochemical Enzyme Networks (Supplementary Materials).' Engineering Optimization, 49(2), p. 345-364, Feb 2017.
